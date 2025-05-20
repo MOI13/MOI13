@@ -5,12 +5,22 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🔬 Current Work:
+- 🔭 Applying functional data analysis to image-derived color matrices to estimate and track clinical biomarkers (e.g., hemoglobin levels).
+- 🧬 Exploring omics data to perform epigenetics studies, identifying risk factors and treatment response for diseases of interest.
+- 📊 Building dynamic R Shiny dashboards and customized reports for clinical collaborators.
+
+
+🛠️ Tools & Languages:
+- R / RMarkdown / Quarto
+- SAS (Base, STAT, MACRO, GRAPH)
+- Python (pandas, scikit-learn, NumPy, matplotlib, PyTorch)
+- Docker, renv, GitHub
+- R Shiny, Tableau, Spotfire
+
+📫 How to Reach Me:
+- Email: xintian.song@emory.edu
+- LinkedIn: https://www.linkedin.com/in/xintian-song-biostatistician/
+- GitHub: @MOI13
+
 -->
